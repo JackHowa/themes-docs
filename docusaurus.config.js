@@ -9,12 +9,12 @@ const config = {
   title: 'Themes Doc',
   tagline: 'Theme your site not your knowledge',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/themes-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'jackhowa', // Usually your GitHub org/user name.
-  projectName: 'themes-doc', // Usually your repo name.
+  projectName: 'themes-docs', // Usually your repo name.
 
   presets: [
     [

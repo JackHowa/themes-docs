@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Themes Doc',
+  title: 'Themes Docs 🎨',
   tagline: 'Theme your site not your knowledge',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/themes-docs/',
@@ -53,7 +53,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/JackHowa/themes-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -63,29 +63,36 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Maintainer Repositories',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Theme Components',
+                href: 'https://github.com/matthewroach/theme-components'
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'PageBuilder Engine Theme Blocks',
+                href: 'https://github.com/WPMedia/fusion-news-theme-blocks'
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Engine Theme SDK',
+                href: 'https://github.com/WPMedia/engine-theme-sdk',
               },
+              {
+                label: 'Feature Pack Example',
+                href: 'https://github.com/WPMedia/Fusion-News-Theme'
+              },
+              {
+                label: 'PageBuilder Engine',
+                href: 'https://github.com/WPMedia/fusion'
+              },
+              {
+                label: 'Theme Settings UI',
+                href: 'https://github.com/WPMedia/themebuilder-ui'
+              },
+              {
+                label: 'Theme Settings API',
+                href: 'https://github.com/WPMedia/themebuilder-api'
+              }
             ],
           },
           {
@@ -97,7 +104,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/JackHowa/themes-docs',
               },
             ],
           },

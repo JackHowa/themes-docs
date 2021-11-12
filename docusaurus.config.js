@@ -92,6 +92,14 @@ const config = {
               {
                 label: 'Theme Settings API',
                 href: 'https://github.com/WPMedia/themebuilder-api'
+              },
+              {
+                label: 'PageBuilder Engine CLI',
+                href: 'https://github.com/WPMedia/fusion-cli'
+              },
+              {
+                label: 'PageBuilder Engine Prop-Types',
+                href: 'https://github.com/WPMedia/fusion-prop-types'
               }
             ],
           },

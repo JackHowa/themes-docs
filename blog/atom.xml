@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/themes-docs/blog</id>
-    <title>Themes Doc Blog</title>
+    <title>Themes Docs 🎨 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/themes-docs/blog"/>
-    <subtitle>Themes Doc Blog</subtitle>
+    <subtitle>Themes Docs 🎨 Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/themes-docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>

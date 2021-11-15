@@ -104,6 +104,35 @@ const config = {
             ],
           },
           {
+            title: 'Storybooks',
+            items: [
+              {
+                label: 'Engine Theme SDK - Canary',
+                href: 'https://canary--5eed0506faad4f0022fedf95.chromatic.com/'
+              },
+              {
+                label: 'Engine Theme SDK - Beta',
+                href: 'https://beta--5eed0506faad4f0022fedf95.chromatic.com/'
+              },
+              {
+                label: 'Engine Theme SDK - Stable',
+                href: 'https://stable--5eed0506faad4f0022fedf95.chromatic.com/'
+              },
+              {
+                label: 'Theme Blocks - Canary',
+                href: 'https://canary--5f91e4721ccaba0022a10782.chromatic.com/'
+              },
+              {
+                label: 'Theme Blocks - Beta',
+                href: 'https://beta--5f91e4721ccaba0022a10782.chromatic.com/'
+              },
+              {
+                label: 'Theme Blocks - Stable',
+                href: 'https://stable--5f91e4721ccaba0022a10782.chromatic.com/'
+              },
+            ]
+          },
+          {
             title: 'More',
             items: [
               {

@@ -67,7 +67,7 @@ const config = {
             items: [
               {
                 label: 'Theme Components',
-                href: 'https://github.com/matthewroach/theme-components'
+                href: 'https://github.com/WPMedia/theme-components'
               },
               {
                 label: 'PageBuilder Engine Theme Blocks',

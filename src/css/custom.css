@@ -28,3 +28,8 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+html[data-theme='light'] {
+  /* ensure text is readable on light background */
+  --ifm-color-primary: #1c846f; 
+}

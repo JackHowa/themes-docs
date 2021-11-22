@@ -1,6 +1,7 @@
 {
   "name": "themes-docs",
   "version": "0.0.0",
+  "license": "CC-BY-NC-ND-4.0",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

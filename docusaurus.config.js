@@ -117,15 +117,15 @@ const config = {
                 href: 'https://stable--5eed0506faad4f0022fedf95.chromatic.com/'
               },
               {
-                label: 'Theme Blocks - Canary',
+                label: 'Themes Blocks - Canary',
                 href: 'https://canary--5f91e4721ccaba0022a10782.chromatic.com/'
               },
               {
-                label: 'Theme Blocks - Beta',
+                label: 'Themes Blocks - Beta',
                 href: 'https://beta--5f91e4721ccaba0022a10782.chromatic.com/'
               },
               {
-                label: 'Theme Blocks - Stable',
+                label: 'Themes Blocks - Stable',
                 href: 'https://stable--5f91e4721ccaba0022a10782.chromatic.com/'
               },
             ]

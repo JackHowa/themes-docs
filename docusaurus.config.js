@@ -64,11 +64,11 @@ const config = {
             title: 'Maintainer Repositories',
             items: [
               {
-                label: 'Theme Components',
+                label: 'Themes Components',
                 href: 'https://github.com/WPMedia/theme-components'
               },
               {
-                label: 'PageBuilder Engine Theme Blocks',
+                label: 'Themes Blocks',
                 href: 'https://github.com/WPMedia/fusion-news-theme-blocks'
               },
               {
@@ -76,7 +76,7 @@ const config = {
                 href: 'https://github.com/WPMedia/engine-theme-sdk',
               },
               {
-                label: 'Feature Pack Example',
+                label: 'Themes Feature Pack Example',
                 href: 'https://github.com/WPMedia/Fusion-News-Theme'
               },
               {

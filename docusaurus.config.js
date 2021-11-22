@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Themes Docs 🎨',
   tagline: 'Theme your site not your knowledge',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://jackhowa.github.io',
   baseUrl: '/themes-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

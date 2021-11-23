@@ -101,6 +101,10 @@ const config = {
               {
                 label: 'PageBuilder Engine Prop-Types',
                 href: 'https://github.com/WPMedia/fusion-prop-types'
+              },
+              {
+                label: 'Repo Builder',
+                href: 'https://github.com/arc-partners/RepoBuilder'
               }
             ],
           },
